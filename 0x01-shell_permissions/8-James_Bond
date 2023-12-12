@@ -1,2 +1,2 @@
 #!/bin/bash
-chmox 007 hello
+chmox o+rwx hello
